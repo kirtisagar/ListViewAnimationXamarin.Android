@@ -1,0 +1,2 @@
+D:\Kirti\Up\ListViewAnimationXamarinAndroid\ListViewAnimationXamarinAndroid\bin\Debug\ListViewAnimationXamarinAndroid.dll
+D:\Kirti\Up\ListViewAnimationXamarinAndroid\listviewanimationsbinding\bin\Debug\ListViewAnimations.dll
