@@ -8,3 +8,6 @@ I have created ListView animation using [nhaarman/ListViewAnimations](https://gi
 
 Demo includes the Appearance Animation. When the ListView items appears first time. If you want to know more and change the animation type follow this guide: https://github.com/nhaarman/ListViewAnimations/wiki/Appearance-Animations
 
+
+If you are stuck, let me know - [@kirtisagar] (https://twitter.com/kirtisagar)
+
